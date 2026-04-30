@@ -1,0 +1,499 @@
+body {
+    background-color: rgb(228, 227, 227) !important;
+    color: rgb(24, 144, 24) !important;
+}
+
+#inicio {
+    background-image: url("img/hamburguer\ inicio.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    text-align: center;
+    flex-direction: column;
+    position: relative
+}
+
+.botao-centro {
+    margin-left: 30px;
+}
+
+#inicio img {
+    display: flex;
+    position: absolute;
+    top: 80px;
+    left: 0px;
+    width: 200px;
+}
+
+#inicio h1 {
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    padding: 5px;
+    margin-left: 10px;
+    margin-top: 10px;
+    font-family: 'Wonderful Snowflake Regular', sans-serif;
+    font-size: 50px;
+    color: rgb(186, 185, 185);
+}
+
+#inicio p {
+    display: block;
+    justify-content: left;
+    align-items: center;
+    text-align: center;
+    color: rgb(186, 185, 185);
+    margin-left: 10px;
+    padding: 10px;
+    margin-top: 0;
+    font-size: 20px;
+    font-family: 'Montserrat Thin', sans-serif;
+    font-weight: bold;
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-family: 'Wonderful Snowflake Regular', sans-serif;
+    font-size: 30px;
+}
+
+p {
+    font-family: 'Montserrat Thin', sans-serif;
+    font-size: 20px;
+    text-align: justify;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-weight: bold;
+    padding: 15px;
+}
+
+#cardapio {
+    margin-top: 50px;
+}
+
+h4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-family: 'Wonderful Snowflake Regular', sans-serif;
+    font-size: 25px;
+}
+
+
+.card1,
+.card2,
+.card3,
+.card4 {
+    background-color: rgb(24, 144, 24) !important;
+    color: rgb(255, 255, 255) !important;
+    font-family: 'Montserrat Thin', sans-serif;
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold !important;
+    border-radius: 10px !important;
+    width: 230px;
+    margin: 0 auto;
+}
+
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+
+.card-img-top {
+    height: 180px;
+    object-fit: cover;
+}
+
+.card1 p,
+.card2 p,
+.card3 p,
+.card4 p {
+    font-size: 10px !important;
+}
+
+.card1 img {
+    width: 100%;
+    height: auto;
+}
+
+.card2 img {
+    width: 100%;
+    height: auto;
+}
+
+.card3 img {
+    width: 100%;
+    height: auto;
+}
+
+.card4 img {
+    width: 100%;
+    height: auto;
+}
+
+.card-title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-family: 'Montserrat Thin', sans-serif;
+    font-size: 20px;
+    font-weight: bold !important;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-family: 'Montserrat Thin', sans-serif;
+    font-size: 20px;
+    font-weight: bold !important;
+}
+
+.table-secondary {
+    width: 95% !important;
+    margin: auto !important;
+    border-radius: 10px !important;
+    color: rgb(186, 185, 185) !important;
+}
+
+.table-secondary thead {
+    color: rgb(186, 185, 185) !important;
+    font-family: 'Montserrat Thin', sans-serif !important;
+    font-weight: bold !important;
+}
+
+.table-secondary tbody {
+    color: rgb(0, 0, 0) !important;
+    font-family: 'Montserrat Thin', sans-serif !important;
+    font-weight: bold !important;
+    font-size: 15px !important;
+}
+
+.table-secondary,
+th,
+td {
+    border: 3px solid rgb(24, 144, 24) !important;
+}
+
+.table-secondary a {
+    color: rgb(0, 0, 0) !important;
+    text-decoration: none !important;
+}
+
+.table-secondary a:hover {
+    color: rgb(186, 185, 185) !important;
+}
+
+ul li {
+    font-family: 'Montserrat Thin', sans-serif;
+    font-size: 20px;
+    text-align: justify;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-weight: bold;
+    line-height: 0.5 !important;
+    padding: 15px;
+}
+
+#contato h2 {
+    line-height: 0.5 !important;
+}
+
+.table-secondary a {
+    color: rgb(15, 15, 15) !important;
+    text-decoration: none !important;
+}
+
+.table-secondary a:hover {
+    color: rgb(24, 144, 24) !important;
+}
+
+
+#contato p,
+#contato h2,
+#contato div {
+    margin: 0;
+    padding: 0;
+}
+
+#contato {
+    text-align: center;
+    padding: 20px 20px;
+}
+
+#contato h2 {
+    font-size: 30px;
+    color: rgb(24, 144, 24);
+    margin-bottom: 25px;
+}
+
+#contato p {
+    font-size: 20px;
+    margin: 10px 0;
+}
+
+.telefones {
+    margin: 30px 0;
+}
+
+.slide {
+    width: 1000px !important;
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    text-align: center !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
+h3 {
+    font-family: 'Wonderful Snowflake Regular', sans-serif;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 0;
+    padding-top: 15px;
+    color: rgb(186, 185, 185) !important;
+}
+
+.carousel {
+    max-width: 100%;
+}
+
+.carousel img {
+    width: 100%;
+    height: auto;
+}
+
+.carousel-caption {
+    top: 0;
+    bottom: auto;
+    display: block !important;
+}
+
+footer {
+    background-color: rgb(24, 144, 24);
+    color: white;
+    padding: 0;
+    font-family: 'Montserrat Thin', sans-serif;
+    font-weight: bold !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+    position: relative;
+    margin: 0;
+}
+
+footer p {
+    font-size: 15px;
+    margin: 5px;
+    padding: 5px;
+}
+
+footer a {
+    text-decoration: none !important;
+    color: white !important;
+    font-family: 'Montserrat Thin', sans-serif;
+    font-weight: bold !important;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+footer a:hover {
+    color: rgb(103, 15, 15) !important;
+}
+
+.nav-item {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    text-align: center;
+    font-family: 'Montserrat Thin', sans-serif;
+    font-size: 15px;
+    font-weight: bold !important;
+}
+
+.offcanvas-title {
+    font-family: 'Super Youth Regular', sans-serif;
+    font-size: 30px;
+    color: white;
+}
+
+.img-menu {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.card1 {
+    transition: 0.3s ease;
+}
+
+.card1:hover {
+    transform: translateY(-10px);
+}
+
+.card2 {
+    transition: 0.3s ease;
+}
+
+.card2:hover {
+    transform: translateY(-10px);
+}
+
+.card3 {
+    transition: 0.3s ease;
+}
+
+.card3:hover {
+    transform: translateY(-10px);
+}
+
+.card4 {
+    transition: 0.3s ease;
+}
+
+.card4:hover {
+    transform: translateY(-10px);
+}
+
+#contato {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 0;
+    margin: 0;
+}
+
+#contato h2 {
+    padding: 0;
+    margin: 13px;
+}
+
+#contato p {
+    padding: 0;
+    margin: 10px;
+}
+
+.rodape {
+    background-color: rgb(24, 144, 24) !important;
+    color: white !important;
+    font-family: 'Montserrat Thin', sans-serif !important;
+    font-weight: bold !important;
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    text-align: center !important;
+    flex-direction: column !important;
+    position: relative !important;
+    margin: 0 !important;
+    padding: 10px 0 !important;
+}
+
+.rodape-container {
+    display: flex !important;
+    align-items: center !important;
+    flex-direction: column !important;
+    gap: 10px;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+.copy {
+    font-size: 15px !important;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+.redes-sociais {
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    text-align: center !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    gap: 10px;
+}
+
+.redes-sociais img {
+    display: flex;
+    width: 35px !important;
+    height: 35px !important;
+    margin: 0 5px !important;
+    padding: 0 !important;
+}
+
+.redes-sociais2 {
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    text-align: center !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    gap: 10px;
+}
+
+.redes-sociais2 img {
+    display: flex;
+    width: 30px !important;
+    height: 30px !important;
+    margin: 0 5px !important;
+    padding: 0 !important;
+}
+
+.icones {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    gap: 5px !important;
+}
+
+.modal-content {
+    background-color: rgb(186, 185, 185) !important;
+}
+
+.modal-header {
+    font-family: 'Super Youth Regular', sans-serif !important;
+    color: rgb(78, 78, 78) !important;
+}
+
+.modal-body {
+    font-family: 'Montserrat Thin', sans-serif !important;
+    font-weight: bold !important;
+    color: black !important;
+}
+
+.row {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.col-auto {
+    padding: 0;
+}
