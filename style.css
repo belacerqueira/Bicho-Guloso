@@ -52,9 +52,10 @@ body {
     padding: 5px;
     margin-left: 10px;
     margin-top: 10px;
-    font-family: 'Wonderful Snowflake', sans-serif;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 50px;
     color: rgb(186, 185, 185);
+    font-weight: bold;
 }
 
 #inicio p {
@@ -67,7 +68,7 @@ body {
     padding: 10px;
     margin-top: 0;
     font-size: 20px;
-    font-family: 'Montserrat Thin', sans-serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: bold;
 }
 
@@ -76,20 +77,21 @@ h2 {
     justify-content: center;
     align-items: center;
     text-align: center;
-    font-family: 'Wonderful Snowflake', sans-serif;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 30px;
+    font-weight: bold;
 }
 
 p {
-    font-family: 'Montserrat Thin', sans-serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 20px;
     text-align: justify;
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    font-weight: bold;
     padding: 15px;
+
 }
 
 #cardapio {
@@ -101,8 +103,9 @@ h4 {
     justify-content: center;
     align-items: center;
     text-align: center;
-    font-family: 'Wonderful Snowflake', sans-serif;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 25px;
+    font-weight: bold;
 }
 
 
@@ -112,10 +115,9 @@ h4 {
 .card4 {
     background-color: rgb(24, 144, 24) !important;
     color: rgb(255, 255, 255) !important;
-    font-family: 'Montserrat Thin', sans-serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 20px;
     text-align: center;
-    font-weight: bold !important;
     border-radius: 10px !important;
     width: 230px;
     margin: 0 auto;
@@ -164,9 +166,8 @@ h4 {
     justify-content: center;
     align-items: center;
     text-align: center;
-    font-family: 'Montserrat Thin', sans-serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 20px;
-    font-weight: bold !important;
 }
 
 .button {
@@ -174,9 +175,8 @@ h4 {
     justify-content: center;
     align-items: center;
     text-align: center;
-    font-family: 'Montserrat Thin', sans-serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 20px;
-    font-weight: bold !important;
 }
 
 .table-secondary {
@@ -188,14 +188,12 @@ h4 {
 
 .table-secondary thead {
     color: rgb(186, 185, 185) !important;
-    font-family: 'Montserrat Thin', sans-serif !important;
-    font-weight: bold !important;
+    font-family: Verdana, Geneva, Tahoma, sans-serif !important;
 }
 
 .table-secondary tbody {
     color: rgb(0, 0, 0) !important;
-    font-family: 'Montserrat Thin', sans-serif !important;
-    font-weight: bold !important;
+    font-family: Verdana, Geneva, Tahoma, sans-serif !important;
     font-size: 15px !important;
 }
 
@@ -215,14 +213,13 @@ td {
 }
 
 ul li {
-    font-family: 'Montserrat Thin', sans-serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 20px;
     text-align: justify;
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    font-weight: bold;
     line-height: 0.5 !important;
     padding: 15px;
 }
@@ -270,7 +267,7 @@ ul li {
 
 
 h3 {
-    font-family: 'Wonderful Snowflake', sans-serif;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 30px;
     display: flex;
     justify-content: center;
@@ -279,6 +276,7 @@ h3 {
     margin-top: 0;
     padding-top: 15px;
     color: rgb(186, 185, 185) !important;
+    font-weight: bold;
 }
 
 .carousel {
@@ -300,8 +298,7 @@ footer {
     background-color: rgb(24, 144, 24);
     color: white;
     padding: 0;
-    font-family: 'Montserrat Thin', sans-serif;
-    font-weight: bold !important;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -320,8 +317,7 @@ footer p {
 footer a {
     text-decoration: none !important;
     color: white !important;
-    font-family: 'Montserrat Thin', sans-serif;
-    font-weight: bold !important;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin: 0;
     padding: 0;
     display: flex;
@@ -336,7 +332,7 @@ footer a:hover {
     justify-content: center;
     align-items: flex-start;
     text-align: center;
-    font-family: 'Montserrat Thin', sans-serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 15px;
     font-weight: bold !important;
 }
@@ -407,8 +403,7 @@ footer a:hover {
 .rodape {
     background-color: rgb(24, 144, 24) !important;
     color: white !important;
-    font-family: 'Montserrat Thin', sans-serif !important;
-    font-weight: bold !important;
+    font-family: Verdana, Geneva, Tahoma, sans-serif !important;
     display: flex !important;
     justify-content: center !important;
     align-items: center !important;
@@ -483,13 +478,12 @@ footer a:hover {
 }
 
 .modal-header {
-    font-family: 'Super Youth Regular', sans-serif !important;
+    font-family: Arial, Helvetica, sans-serif;
     color: rgb(78, 78, 78) !important;
 }
 
 .modal-body {
-    font-family: 'Montserrat Thin', sans-serif !important;
-    font-weight: bold !important;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: black !important;
 }
 
