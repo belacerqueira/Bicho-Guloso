@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'Montserrat Thin';
-    src: url('./fontes/Montserrat-Thin.ttf') format('truetype');
+    src: url('./fontes/Montserrat-Thin.ttf.ttf') format('truetype');
 }
 
 @font-face {
@@ -10,7 +10,7 @@
 
 @font-face {
     font-family: 'Wonderful Snowflake';
-    src: url('./fontes/WonderfulSnowflake.ttf') format('truetype');
+    src: url('./fontes/WonderfulSnowflake.otf') format('opentype');
 }
 
 body {
