@@ -1,16 +1,16 @@
 @font-face {
     font-family: 'Montserrat Thin';
-    src: url('fontes/Montserrat Thin.ttf') format('truetype');
+    src: url('fontes/Montserrat-Thin.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'Super Youth Regular';
-    src: url('fontes/Super Youth.ttf') format('truetype');
+    src: url('fontes/Super\ Youth.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'Wonderful Snowflake';
-    src: url('fontes/Wonderful Snowflake.ttf') format('opentype');
+    src: url('fontes/Wonderful\ Snowflake.otf') format('opentype');
 }
 
 body {
@@ -342,7 +342,7 @@ footer a:hover {
 }
 
 .offcanvas-title {
-    font-family: 'Super Youth', sans-serif;
+    font-family: 'Super Youth Regular', sans-serif;
     font-size: 30px;
     color: white;
 }
@@ -483,7 +483,7 @@ footer a:hover {
 }
 
 .modal-header {
-    font-family: 'Super Youth', sans-serif !important;
+    font-family: 'Super Youth Regular', sans-serif !important;
     color: rgb(78, 78, 78) !important;
 }
 
