@@ -10,7 +10,7 @@
 
 @font-face {
     font-family: 'Wonderful Snowflake';
-    src: url('fontes/Wonderful\ Snowflake.otf') format('truetype');
+    src: url('fontes/Wonderful Snowflake.otf') format('truetype');
 }
 
 body {
@@ -268,7 +268,7 @@ ul li {
     margin: 30px 0;
 }
 
-.slide {
+.carousel.slide {
     width: 1000px !important;
     display: flex !important;
     justify-content: center !important;
