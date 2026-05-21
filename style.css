@@ -10,7 +10,7 @@
 
 @font-face {
     font-family: 'Wonderful Snowflake';
-    src: url('fontes/Wonderful Snowflake Regular.otf') format('truetype');
+    src: url('fontes/Wonderful Snowflake Regular.otf') format('opentype');
 }
 
 body {
