@@ -5,12 +5,12 @@
 
 @font-face {
     font-family: 'Super Youth Regular';
-    src: url('fontes/Super Youth Regular.ttf') format('truetype');
+    src: url('fontes/Super Youth.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'Wonderful Snowflake';
-    src: url('fontes/Wonderful Snowflake Regular.otf') format('opentype');
+    src: url('fontes/Wonderful Snowflake.otf') format('opentype');
 }
 
 body {
