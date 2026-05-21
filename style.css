@@ -52,7 +52,7 @@ body {
     padding: 5px;
     margin-left: 10px;
     margin-top: 10px;
-    font-family: 'Wonderful Snowflake Regular', sans-serif;
+    font-family: 'Wonderful Snowflake', sans-serif;
     font-size: 50px;
     color: rgb(186, 185, 185);
 }
@@ -76,7 +76,7 @@ h2 {
     justify-content: center;
     align-items: center;
     text-align: center;
-    font-family: 'Wonderful Snowflake Regular', sans-serif;
+    font-family: 'Wonderful Snowflake', sans-serif;
     font-size: 30px;
 }
 
@@ -101,7 +101,7 @@ h4 {
     justify-content: center;
     align-items: center;
     text-align: center;
-    font-family: 'Wonderful Snowflake Regular', sans-serif;
+    font-family: 'Wonderful Snowflake', sans-serif;
     font-size: 25px;
 }
 
@@ -270,7 +270,7 @@ ul li {
 
 
 h3 {
-    font-family: 'Wonderful Snowflake Regular', sans-serif;
+    font-family: 'Wonderful Snowflake', sans-serif;
     font-size: 30px;
     display: flex;
     justify-content: center;
@@ -342,7 +342,7 @@ footer a:hover {
 }
 
 .offcanvas-title {
-    font-family: 'Super Youth Regular', sans-serif;
+    font-family: 'Super Youth', sans-serif;
     font-size: 30px;
     color: white;
 }
@@ -483,7 +483,7 @@ footer a:hover {
 }
 
 .modal-header {
-    font-family: 'Super Youth Regular', sans-serif !important;
+    font-family: 'Super Youth', sans-serif !important;
     color: rgb(78, 78, 78) !important;
 }
 
