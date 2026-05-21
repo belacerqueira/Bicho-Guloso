@@ -1,16 +1,16 @@
 @font-face {
     font-family: 'Montserrat Thin';
-    src: url('fontes/Montserrat-Thin.ttf') format('truetype');
+    src: url('./fontes/Montserrat-Thin.ttf') format('truetype');
 }
 
 @font-face {
-    font-family: 'Super Youth Regular';
-    src: url('fontes/SuperYouth-Regular.otf') format('opentype');
+    font-family: 'Super Youth';
+    src: url('./fontes/SuperYouth.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'Wonderful Snowflake';
-    src: url('fontes/Wonderful-Snowflake.otf') format('opentype');
+    src: url('./fontes/WonderfulSnowflake.ttf') format('truetype');
 }
 
 body {
