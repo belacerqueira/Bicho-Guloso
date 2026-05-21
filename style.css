@@ -268,15 +268,6 @@ ul li {
     margin: 30px 0;
 }
 
-.carousel.slide {
-    width: 1000px !important;
-    display: flex !important;
-    justify-content: center !important;
-    align-items: center !important;
-    text-align: center !important;
-    margin-left: auto !important;
-    margin-right: auto !important;
-}
 
 h3 {
     font-family: 'Wonderful Snowflake Regular', sans-serif;
