@@ -1,16 +1,16 @@
 @font-face {
-    font-family: 'Montserrat Thin';
-    src: url('./fontes/Montserrat-Thin.ttf.ttf') format('truetype');
+    font-family: 'Montserrat-Thin';
+    src: url('Montserrat-Thin.ttf.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'Super Youth';
-    src: url('./fontes/SuperYouth.ttf') format('truetype');
+    src: url('SuperYouth.ttf.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'Wonderful Snowflake';
-    src: url('./fontes/WonderfulSnowflake.otf') format('opentype');
+    src: url('WonderfulSnowflake.ttf.otf') format('truetype');
 }
 
 body {
@@ -52,10 +52,9 @@ body {
     padding: 5px;
     margin-left: 10px;
     margin-top: 10px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: 'Wonderful Snowflake', sans-serif;
     font-size: 50px;
     color: rgb(186, 185, 185);
-    font-weight: bold;
 }
 
 #inicio p {
@@ -68,7 +67,7 @@ body {
     padding: 10px;
     margin-top: 0;
     font-size: 20px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Montserrat-Thin', sans-serif;
     font-weight: bold;
 }
 
